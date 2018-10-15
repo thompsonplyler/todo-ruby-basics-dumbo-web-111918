@@ -23,5 +23,5 @@ puts = "expert"
 end
 
 def pizza_party(default="cheese")
-
+default
 end
